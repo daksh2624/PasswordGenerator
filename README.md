@@ -12,4 +12,4 @@ A simple password generator built with React and Vite.
 ## Tech Stack
 - React
 - Vite
-- Tailwind CSS (if you're using it)
+- Tailwind CSS
